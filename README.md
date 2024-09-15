@@ -1,5 +1,8 @@
 # Learn HTML Forms by Building a Registration Form
 
+![screencapture-freecodecamp-responsive-web-design-github-io-learn-html-forms-by-building-a-registration-form-2024-09-15-12_54_20](https://github.com/user-attachments/assets/c16a8904-ff68-4023-b665-1098ee30d43c)
+
+
 This project is part of the **FreeCodeCamp** curriculum, where you'll learn how to create and manage **HTML forms** by building a **Registration Form**.
 
 [Learn HTML Forms by Building a Registration Form](https://freecodecamp-responsive-web-design.github.io/learn-html-forms-by-building-a-registration-form/)
