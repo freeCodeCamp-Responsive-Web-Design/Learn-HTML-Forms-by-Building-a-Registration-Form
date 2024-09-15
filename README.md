@@ -2,6 +2,8 @@
 
 This project is part of the **FreeCodeCamp** curriculum, where you'll learn how to create and manage **HTML forms** by building a **Registration Form**.
 
+[Learn HTML Forms by Building a Registration Form](https://freecodecamp-responsive-web-design.github.io/learn-html-forms-by-building-a-registration-form/)
+
 ## In this project, you will:
 - Explore various **HTML form elements** including text fields, radio buttons, checkboxes, and submit buttons.
 - Practice using **form attributes** such as `action`, `method`, and `name` to manage form data.
